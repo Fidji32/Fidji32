@@ -21,3 +21,6 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="36" height="36" alt="PHOTOSHOP" />
 </p>
+
+## Statistiques Github
+![Statistiques GitHub de Fidji32](https://github-readme-stats.vercel.app/api?username=Fidji32&theme=gotham&show_icons=true)
