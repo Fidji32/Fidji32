@@ -23,4 +23,4 @@
 </p>
 
 ## Statistiques Github
-![Statistiques GitHub de Fidji32](https://github-readme-stats.vercel.app/api?username=Fidji32&theme=dark&show_icons=true)
+![Statistiques GitHub de Fidji32](https://github-readme-stats.vercel.app/api?username=Fidji32&theme=transparent&show_icons=true)
