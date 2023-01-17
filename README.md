@@ -7,9 +7,11 @@
 
 ## Mes projets
 * 🪙 [Application d'économie de jetons]() pour l'association "[Trisomie 21 Haute-Garonne](http://trisomie21-haute-garonne.org/)"
+
 * 🖲️ [Proxy-ftp]()
 * 🖼️ [Photoshop](https://github.com/Fidji32/Photoshop)
 * 🏉 [Application de gestion d'une équipe de rugby](https://github.com/Fidji32/Website-to-manage-a-rugby-team)
+* 🪟 [SudokuSolver](https://github.com/Fidji32/SudokuSolver)
 
 ## Mes compétences
 <p align="left">
