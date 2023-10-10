@@ -2,7 +2,7 @@
 
 * 🌍  Je suis actuellement situé à Toulouse
 * ✉️  Vous pouvez me contacter à [matthis.vandevyver@outlook.fr](mailto:matthis.vandevyver@outlook.fr)
-* 🚀  Je suis actuellement étudiant en [BUT informatique](https://www.univ-tlse3.fr/but-specialite-informatique)
+* 🚀  Je suis étudiant en [BUT informatique](https://www.univ-tlse3.fr/but-specialite-informatique)
 * 🌱  J'apprends actuellement [Photoshop](https://www.adobe.com/fr/products/photoshop/landpb.html?gclid=Cj0KCQiAiJSeBhCCARIsAHnAzT9dSLz1fqhJ0aW4d44O92gVH_kYEj-FEP6cc_Lb1TV1a-dPpyuOmaEaAotWEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQiAiJSeBhCCARIsAHnAzT9dSLz1fqhJ0aW4d44O92gVH_kYEj-FEP6cc_Lb1TV1a-dPpyuOmaEaAotWEALw_wcB:G:s&s_kwcid=AL!3085!3!341240721080!e!!g!!photoshop!1435912275!56537390339)
 
 ## Mes projets
