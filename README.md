@@ -11,7 +11,7 @@ I've been learning computing and coding for 3 years, after finishing high school
 * 🚀  I'm currently working on [a multi-site network infrastructure](http://github.com/Fidji32/Multisite_network_infrastructure)
 * 🧠  I'm learning Photoshop and Blender
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm not closed to comments on my projects
+* ⚡  I'm not closed to comments on my Photoshop or Blender projects, which you can find on my Instagram account
 
 ### Skills
 
