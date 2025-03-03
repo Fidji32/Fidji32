@@ -1,7 +1,7 @@
 Hi 👋 My name is Matthis VAN DE VYVER
 =====================================
 
-An young IT enthusiast
+A young IT enthusiast
 ----------------------
 
 I've been learning computing and coding for 3 years, after finishing high school. I started with the basics and got a taste for networking and cybersecurity. However, I also enjoy photography and modelling.
